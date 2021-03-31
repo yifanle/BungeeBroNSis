@@ -17,6 +17,7 @@
 - 将BungeeBrother项目mvn -package 打成jar后放入spigot的plugin内
 - 将BungeeSister项目mvn -package 打成jar后放入bungeeCord的plugin内
 - 也可以直接下载[BungeeBroNSis-release](https://github.com/BigTreasureD/BungeeBroNSis/releases/tag/v1.0.0-beta)
+- **启动服务器前先启动redis
 
 >使用命令:`/bc`
 - spigot控制台 
