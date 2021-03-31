@@ -44,7 +44,7 @@ redis.host=localhost
 redis.port=6379
 ```
 - bungeeCord端
-```yml
+```properties
 #redis服务器的IP
 redis.host=localhost
 #redis服务器的Port
