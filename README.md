@@ -1,0 +1,2 @@
+# BungeeBroNSis
+基于Redis订阅和发布的BungeeBrothers改版
