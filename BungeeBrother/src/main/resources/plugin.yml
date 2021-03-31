@@ -1,0 +1,10 @@
+name: BungeeBrother       #哥哥说话妹妹听
+version: 1.0.0-Beta
+author: zuul
+
+main: com.herosteve.bungeebrother.main.Main
+commands:
+  bc:
+    description: Communication with bungeeCord
+    permission: bungeeBrother.bc
+    permission-message: You don't have this permission
