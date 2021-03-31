@@ -1,0 +1,5 @@
+name: BungeeSister
+version: 1.0.0-beta
+author: zuul
+
+main: com.herosteve.bungeesister.main.Main
