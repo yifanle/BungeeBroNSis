@@ -1,8 +1,9 @@
 # BungeeBroNSis
 基于Redis订阅和发布的BungeeBrothers改版:sparkling_heart:<br>
->功能<br>
+>功能&不同<br>
 
-BungeeBroNSis包含两个插件,提供spigot控制台及玩家向bungeeCord端发送命令的功能
+BungeeBroNSis包含两个插件,提供spigot控制台及玩家向bungeeCord端发送命令的功能<br>
+与BungeeBrothers相比支持了 0 在线人数时仍可发送命令
 >使用方法
 - 将BungeeBrother项目mvn -package 打成jar后放入spigot的plugin内
 - 将BungeeSister项目mvn -package 打成jar后放入bungeeCord的plugin内
